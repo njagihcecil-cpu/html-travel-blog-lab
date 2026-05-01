@@ -1,0 +1,61 @@
+.form-card {
+  background-color: #070707;
+  border-radius: 8px;
+  padding: 16px;
+  align-items: center;
+  width: 85%;
+}
+
+.form-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #f2eded;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-label {
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 4px;
+  color: #f3ecec;
+}
+
+.form-input {
+  width: 70%;
+  color: #999999;
+  padding: 6px 8px;
+  border: 1px solid #110016;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  background-color: #1a1a1f;
+}
+
+.form-textarea {
+  width: 85%;
+  color: #cccccc;
+  padding: 6px 8px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  height: 80px;
+  resize: vertical;
+  background-color: #1a1a1f;
+}
+
+.form-button {
+  padding: 6px 16px;
+  background-color: #0f4f03;
+  border: 1px solid #999999;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #e8e8e8;
+}

@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px 16px;
+  text-align: center;
+}
+ 
+.header-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+ 

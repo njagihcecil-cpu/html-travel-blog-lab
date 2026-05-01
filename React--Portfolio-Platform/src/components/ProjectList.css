@@ -1,0 +1,14 @@
+.project-list {
+  background: none;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.no-results {
+  text-align: center;
+  color: #aaaaaa;
+  padding: 16px;
+}
